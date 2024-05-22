@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development and web design
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on AI and software development
-- 📫 How to reach me : aishaibraheem9999@gmail.com
+- 📫 How to reach me : devaishaa@gmail.com
 
 <!---
 Dev-Aisha/Dev-Aisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
